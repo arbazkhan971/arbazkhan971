@@ -4,7 +4,7 @@
 
 
 <a href="#arbaz-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=arbaz&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Arbaz Kakar" align="right" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arbazkhan971&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Arbaz Kakar" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **Lineupx**
