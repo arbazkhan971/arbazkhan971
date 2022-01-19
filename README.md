@@ -4,7 +4,7 @@
 
 
 <a href="#arbaz-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=arbazkhan971&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Arbaz Kakar" align="right" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=arbazkhan971&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats" alt="Arbaz Khan" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **Lineupx**
@@ -257,7 +257,6 @@
 
 
 [![Arbaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=arbazkhan971&theme=react-dark)](https://github.com/arbazkhan971)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arbazkhan971&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
