@@ -8,7 +8,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **Lineupx**
-- :speech_balloon: &nbsp;I like to talk about **React Native** , **JavaScript**, **Nodejs** , **AWS** and **DevOps**
+- :speech_balloon: &nbsp;I like to talk about **React**, **React Native** , **JavaScript**, **Nodejs** , **AWS** and **DevOps**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
