@@ -105,7 +105,7 @@
     </td>
     <td align="center" width="96">
       <a href="#arbaz-tech">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Ffirebase-developers&psig=AOvVaw0UNllJ2ekvvCd11BCiimdk&ust=1643172749760000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPiKk9ONzPUCFQAAAAAdAAAAABAD" width="48" height="48" alt="Firebase" />
+        <img src="https://cdn-images-1.medium.com/max/1200/1*ti5CnGh_T4Kqy5aCTLJRcg.png" width="48" height="48" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
