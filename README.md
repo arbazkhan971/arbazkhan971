@@ -257,9 +257,6 @@
 
 
 [![Arbaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=arbazkhan971&theme=react-dark)](https://github.com/arbazkhan971)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbazkhan971&theme=tokyonight) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arbazkhan971)](https://github.com/arbazkhan971/github-readme-stats)
-
 
 
 
