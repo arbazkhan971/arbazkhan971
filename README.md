@@ -2,7 +2,7 @@
 <h1 align="left" id="arbaz-title">:wave: Hello there! I'm Arbaz</h1>
 <h3 align="left">Currently Leading Tech at Lineupx </h3>
 
-
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=arbazkhan971&color=brightgreen">  
 <a href="#arbaz-title">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=arbazkhan971&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Arbaz Khan" align="right" />
 </a>
@@ -257,6 +257,7 @@
 
 
 [![Arbaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=arbazkhan971&theme=react-dark)](https://github.com/arbazkhan971)
-
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/arbazkhan971/Actions/blob/output/github-contribution-grid-snake.svg)
 
 
