@@ -254,10 +254,4 @@
 [linkedin]: https://www.linkedin.com/in/arbaz-khan-b4b83b125/ "LinkedIn"
 [twitter]: https://twitter.com/arb5z "Twitter"
 [kaggle]: https://www.kaggle.com/arbazkhan971 "Kaggle"
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/arbazkhan971/Actions/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
 [![Arbaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=arbazkhan971&theme=react-dark)](https://github.com/arbazkhan971)
