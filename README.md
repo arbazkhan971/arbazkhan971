@@ -19,8 +19,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-[![MySkills(https://skillicons.dev/icons?i=aws,&perline=6)(https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <table align="center">
   <tr>
     <td align="center" width="96">
