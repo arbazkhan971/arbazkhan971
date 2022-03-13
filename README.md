@@ -19,7 +19,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-[[MySkills(https://skillicons.dev/iconsi=aws,react,python,bootstrap,c,cpp,html,css,docker,express,git,graphana,kubernetes,mongodb,nextjs,nodejs,nginx,vscode,tailwind,prometheus,linux,figma&perline=6)(https://skillicons.dev)
+[![MySkills(https://skillicons.dev/iconsi=aws,react,python,bootstrap,c,cpp,html,css,docker,express,git,graphana,kubernetes,mongodb,nextjs,nodejs,nginx,vscode,tailwind,prometheus,linux,figma&perline=6)(https://skillicons.dev)
 
 <table align="center">
   <tr>
