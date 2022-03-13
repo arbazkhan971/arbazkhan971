@@ -19,7 +19,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-[![MySkills(https://skillicons.dev/iconsi=aws,&perline=6)(https://skillicons.dev)
+[![MySkills(https://skillicons.dev/icons?i=aws,&perline=6)(https://skillicons.dev)
 
 <table align="center">
   <tr>
