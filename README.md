@@ -19,7 +19,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-[![My Skills](https://skillicons.dev/icons?i=js,express,nextjs,react,c,cpp,docker,kubernetes,aws,nodejs,figma,git,vscode,cloudflare,html,css,vim,nginx&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,express,nextjs,react,c,cpp,docker,kubernetes,aws,nodejs,figma,git,vscode,cloudflare,html,css,vim,nginx,graphana,prometheus,python,sass,bootstrap&theme=light)](https://skillicons.dev)
 
 [linkedin]: https://www.linkedin.com/in/arbaz-khan-b4b83b125/ "LinkedIn"
 [twitter]: https://twitter.com/arb5z "Twitter"
