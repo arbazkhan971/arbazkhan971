@@ -25,3 +25,5 @@
 [twitter]: https://twitter.com/arb5z "Twitter"
 [kaggle]: https://www.kaggle.com/arbazkhan971 "Kaggle"
 [![Arbaz's github activity graph](https://activity-graph.herokuapp.com/graph?username=arbazkhan971&theme=react-dark)](https://github.com/arbazkhan971)
+
+<a href="https://app.daily.dev/arbazkhan971"><img src="https://api.daily.dev/devcards/e308d649d114475598f0298ce38d89a2.png?r=j05" width="400" alt="Arbaz Khan's Dev Card"/></a>
