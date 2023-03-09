@@ -8,7 +8,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **Lineupx**
-- :speech_balloon: &nbsp;I like to talk about **React**, **JavaScript**, **Nodejs** ,**AI/ML**, **AWS** and **DevOps**
+- :speech_balloon: &nbsp;I like to talk about **React**, **JavaScript**, **Nodejs** ,**AI/ML**, **Digital Ocean**,**AWS** and **DevOps**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
@@ -19,7 +19,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-[![My Skills](https://skillicons.dev/icons?i=js,express,nextjs,react,c,cpp,docker,kubernetes,aws,nodejs,figma,git,vscode,cloudflare,html,css,vim,nginx,grafana,prometheus,python,sass,bootstrap,styledcomponents,tailwind,redis,mongodb,mysql,linux,deno,cloudflare,bash,solidity,pr,ae,flask&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,express,nextjs,react,c,cpp,docker,kubernetes,aws,nodejs,figma,git,vscode,cloudflare,html,css,vim,nginx,grafana,prometheus,python,sass,bootstrap,styledcomponents,tailwind,redis,mongodb,mysql,linux,deno,cloudflare,bash,solidity,pr,ae,flask&theme=light)](https://github.com/arbazkhan971)
 
 [linkedin]: https://www.linkedin.com/in/arbaz-khan-b4b83b125/ "LinkedIn"
 [twitter]: https://twitter.com/arb5z "Twitter"
