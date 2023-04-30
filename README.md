@@ -1,4 +1,3 @@
-
 <h1 align="left" id="arbaz-title">:wave: Hello there! I'm Arbaz</h1>
 <h3 align="left">Currently Leading Tech at Lineupx </h3>
 
