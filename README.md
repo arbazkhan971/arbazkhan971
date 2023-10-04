@@ -3,7 +3,7 @@
 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=arbazkhan971&color=brightgreen">  
 <a href="#arbaz-title">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arbazkhan971&theme=dark&date_format=j%20M%5B%20Y%5D" alt="Arbaz Khan" align="right" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arbazkhan971" alt="Arbaz Khan" align="right" />
 </a>
 
 - :office: &nbsp;I'm currently working at **Lineupx**
