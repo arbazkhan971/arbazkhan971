@@ -2,9 +2,7 @@
 <h3 align="left">Currently Leading Tech at Lineupx </h3>
 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=arbazkhan971&color=brightgreen">  
-<a href="#arbaz-title">
-[![GitHub Streak](https://streak-stats.demolab.com?user=arbazkhan971&theme=highcontrast)](https://git.io/streak-stats)
-</a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arbazkhan971&theme=highcontrast" alt="GitHub Streak" /></a>
 
 - :office: &nbsp;I'm currently working at **Lineupx**
 - :speech_balloon: &nbsp;I like to talk about **React**, **NextJS**, **JavaScript**, **Nodejs**, **AI/ML**, **Digital Ocean**, **AWS**, **GCP** and **DevOps**
