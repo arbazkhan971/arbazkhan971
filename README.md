@@ -5,7 +5,7 @@
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arbazkhan971&theme=highcontrast" alt="GitHub Streak" /></a>
 
 - :office: &nbsp;I'm currently working at **Lineupx**
-- :speech_balloon: &nbsp;I like to talk about **React**, **NextJS**, **JavaScript**, **Nodejs**, **AI/ML**, **Digital Ocean**, **AWS**, **GCP** and **DevOps**
+- :speech_balloon: &nbsp;I like to talk about **React**, **NextJS**, **JavaScript**, **Golang**, **Nodejs**, **AI/ML**, **Digital Ocean**, **AWS**, **Azure**, **GCP** and **DevOps**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;Let's talk more in **[Twitter]**
