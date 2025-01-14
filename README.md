@@ -16,7 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,express,nextjs,react,c,cpp,docker,kubernetes,aws,nodejs,figma,git,vscode,cloudflare,html,css,vim,nginx,grafana,prometheus,python,sass,bootstrap,styledcomponents,tailwind,redis,mongodb,mysql,linux,deno,cloudflare,bash,solidity,pr,ae,flask&theme=light)](https://github.com/arbazkhan971)
 
-<div align="center">
+<div align="left">
   <a href="https://app.daily.dev/arbazkhan971">
     <img src="https://api.daily.dev/devcards/e308d649d114475598f0298ce38d89a2.png?r=j05" width="400" alt="Arbaz Khan's Dev Card"/>
   </a>
