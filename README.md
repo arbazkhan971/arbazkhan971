@@ -2,6 +2,7 @@
 <h3 align="left">Currently Leading Tech at Lineupx </h3>
 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=arbazkhan971&color=brightgreen">  
+- 
 - :office: &nbsp;I'm currently working at **Lineupx**
 - :speech_balloon: &nbsp;I like to talk about **React**, **NextJS**, **JavaScript**, **Golang**, **Nodejs**, **AI/ML**, **Digital Ocean**, **AWS**, **Azure**, **GCP** and **DevOps**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
