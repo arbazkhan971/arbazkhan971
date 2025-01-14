@@ -3,11 +3,11 @@
 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=arbazkhan971&color=brightgreen">  
 - 
-- :office: &nbsp;I'm currently working at **Lineupx**
-- :speech_balloon: &nbsp;I like to talk about **React**, **NextJS**, **JavaScript**, **Golang**, **Nodejs**, **AI/ML**, **Digital Ocean**, **AWS**, **Azure**, **GCP** and **DevOps**
-- :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
+  - :office: &nbsp;I'm currently working at **Lineupx**
+  - :speech_balloon: &nbsp;I like to talk about **React**, **NextJS**, **JavaScript**, **Golang**, **Nodejs**, **AI/ML**, **Digital Ocean**, **AWS**, **Azure**, **GCP** and **DevOps**
+  - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
+  - :computer: &nbsp;Connect with me on **[LinkedIn]**
+  - :bird: &nbsp;Let's talk more in **[Twitter]**
 
 <br>
 
