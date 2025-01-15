@@ -3,7 +3,7 @@
 ### Currently Leading Tech at Lineupx
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arbazkhan971&color=brightgreen)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=arbazkhan971&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 - 🏢 I'm currently working at **Lineupx**
 - 💬 I like to talk about **React**, **NextJS**, **JavaScript**, **Golang**, **Nodejs**, **AI/ML**, **Digital Ocean**, **AWS**, **Azure**, **GCP** and **DevOps**
 - 📫 Ask me about anything, I am happy to **help** :)
